@@ -1,4 +1,4 @@
-# StockLine — Complete MERN Inventory Management System (Frontend)
+# StockLine — Complete MERN Inventory Management System (Frontend).
 
 > **University Software Engineering Lab Project**  
 > Modern, interactive, multi-role Inventory Management System (IMS) and Storefront frontend built with **React.js, Vite, Tailwind CSS, Lucide Icons, and Recharts**.
